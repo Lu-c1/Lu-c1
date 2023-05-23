@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lu-c1
-- 👀 I’m interested in programming and create things and projects
+- 👀 I’m interested in programming and create projects
 - 🌱 I’m currently learning web development with ironhack
-- 💞️ I’m looking to collaborate on projets that I am passionated about
+- 💞️ I’m looking to collaborate on projects that I am passionated about
 - 📫 You can reach me through mail
 - 🧩 I´m pleased to take part of Github and start this new Challenge 
 
